@@ -4,6 +4,7 @@
 2) Blocked Public access
 ![Screenshot (235)](https://github.com/cloudmoh/S3Tasks-AlbTask/assets/126796948/5a58925a-3339-4fb4-b28d-41173bbcd39b)
 ![Screenshot (236)](https://github.com/cloudmoh/S3Tasks-AlbTask/assets/126796948/abe8e93f-1578-4b89-b308-c1320b778c16)
+3) Uploaded a text file 
 ![Screenshot (237)](https://github.com/cloudmoh/S3Tasks-AlbTask/assets/126796948/87c230ee-2595-4c4e-b433-d4e1fe278243)
 ![Screenshot (238)](https://github.com/cloudmoh/S3Tasks-AlbTask/assets/126796948/f642595b-e052-4484-ab13-a41a82d6b9d1)
 ![Screenshot (239)](https://github.com/cloudmoh/S3Tasks-AlbTask/assets/126796948/42bf86d4-bb63-4ef5-8ce2-a0db64cf0873)
